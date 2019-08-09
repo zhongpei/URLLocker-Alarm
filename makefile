@@ -1,2 +1,2 @@
 all:
-	docker build -t "zhongpei/urllock-alarm" .
+	docker build -t "zhongpei/urlooker-alarm" .
